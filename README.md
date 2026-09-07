@@ -15,3 +15,6 @@ Demos lanzamiento IEI en la sede de Curicó
 * Monitor de humedad y temperatura del aire
   * Wemos D1 mini
   * DHT22
+* Monitor de EEG & ECG
+  * Neurosky
+  
