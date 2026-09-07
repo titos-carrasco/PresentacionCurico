@@ -17,4 +17,5 @@ Demos lanzamiento IEI en la sede de Curicó
   * DHT22
 * Monitor de EEG & ECG
   * Neurosky
-  
+* Robot controlado desde Bluetooth
+  * RoboBase
