@@ -19,3 +19,4 @@ Demos lanzamiento IEI en la sede de Curicó
   * Neurosky
 * Robot controlado desde Bluetooth
   * RoboBase
+* Bridge para enviar desde servidor MQTT local a un canal en ThingSpeak
